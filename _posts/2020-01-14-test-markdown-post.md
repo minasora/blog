@@ -101,3 +101,13 @@ key: value
 
 [^1]: This is the footnote.
 
+## mermaid
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
