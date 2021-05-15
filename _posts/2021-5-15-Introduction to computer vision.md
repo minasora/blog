@@ -1,5 +1,4 @@
-```
----
+```yaml
 title: "Introduction to computer vision 1"
 description: "北邮网课笔记"
 layout: post
@@ -9,7 +8,6 @@ image: images/some_folder/your_image.png
 hide: false
 search_exclude: true
 categories: [computer_vision]
----
 ```
 
 ## Introduction to computer vision
